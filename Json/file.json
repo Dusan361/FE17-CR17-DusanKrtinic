@@ -1,0 +1,101 @@
+ let data = ` [ { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0    
+
+  } , 
+  { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0   
+
+  } ,
+  { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0  
+
+  } ,
+  { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0    
+
+  } ,
+  { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0    
+
+  } ,
+  { 
+
+    "taskName": "shopping", 
+
+    "image": "../Pictures/groceries.webp", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0    
+
+        },
+        { 
+
+            "taskName": "shopping", 
+        
+            "image": "../Pictures/groceries.webp", 
+        
+            "description": "Shop for weekly groceries at Billa and Hofer.", 
+        
+            "importance": 0    
+        
+          },
+          { 
+
+            "taskName": "shopping", 
+        
+            "image":"../Pictures/groceries.webp",  
+        
+            "description": "Shop for weekly groceries at Billa and Hofer.", 
+        
+            "importance": 0    
+        
+          },
+          { 
+
+            "taskName": "shopping", 
+        
+            "image": "../Pictures/groceries.webp", 
+        
+            "description": "Shop for weekly groceries at Billa and Hofer.", 
+        
+            "importance": 0    
+        
+          } ]  `
+
+
+  
